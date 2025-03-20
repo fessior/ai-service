@@ -1809,14 +1809,14 @@
     jsonwebtoken "9.0.2"
 
 "@nestjs/mongoose@^11.0.1":
-  version "11.0.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/mongoose/-/mongoose-11.0.1.tgz#65a65f39cb5267787da11c2e2dde78906da4cf25"
-  integrity sha512-Nsw/eW5ZptIgwv3gPumKe6UtZu/0HZqixwkkO8Hqn6wZyrLeaTpBFi/z3DGY36dp66uPw14huradDY7OTPDYJA==
+  version "11.0.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/mongoose/-/mongoose-11.0.2.tgz#d54de43c663c43d88a352b466327b9077b1b1bab"
+  integrity sha512-AnDQhxkjigBHOPhiszgaWbGXNl04BNNGHuODnXoRwTpu4mZ8A3MnrBhKkoShmXzlgty617fAOYnPGPETw/JteQ==
 
 "@nestjs/platform-express@^11.0.1":
-  version "11.0.5"
-  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-11.0.5.tgz#765b269991b2b0cb5b3b7c8257450625421c380d"
-  integrity sha512-nG/doauKHuy27Y/3pUKfQFC+mB8ezPayZ/4hTDaysITsOVLBrd7xtS0DW68kSufXnLhIkPgAfB9Ddhm/NHux4g==
+  version "11.0.12"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-11.0.12.tgz#bbc68d01c650727894c59150463a73edb28fae1f"
+  integrity sha512-Jze6dY1q1BBAjFuPQT9CLjYFl5IxMSQQxD+xs6cV+4EIysHxgSFZMJqiTpknZTFgPneyp0zF1TtQAjxBshnwlg==
   dependencies:
     cors "2.8.5"
     express "5.0.1"
